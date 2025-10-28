@@ -1,0 +1,7 @@
+SELECT TOP (1000) [ProductID]
+      ,[Name]
+      ,[Description]
+      ,[Quantity]
+      ,[Price]
+      ,[SupplierID]
+  FROM [Inventory_Management_System].[dbo].[Product]
